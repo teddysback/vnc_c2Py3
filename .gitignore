@@ -1,0 +1,17 @@
+.vs/
+py_libs/
+
+vnc_module/lib
+vnc_module/build/
+vnc_module/Debug/
+vnc_module/Release/
+vnc_module/dist/
+vnc_module/x64/
+vnc_module/win32/
+
+vnc_wrap/vnc_wrap/__pycache__/
+vnc_wrap/vnc_wrap/
+
+*.sdf
+*.opensdf
+*.opendb
